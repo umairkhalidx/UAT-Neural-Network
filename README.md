@@ -17,8 +17,11 @@ Also, in case you want to set up a Virtual Mechine, the choice is yours wheather
 While programming the Neural Network I went with Virtual Box + Ubuntu configuration.
 
 To Install Ubuntu I have attached multiple resources below:
+
 https://www.youtube.com/watch?v=DhVjgI57Ino
+
 https://www.youtube.com/watch?v=NhlhJFKmzpk
+
 https://www.youtube.com/watch?v=qq-7X8zLP7g
 
 After this you would need to install g++ complier in Ubuntu
