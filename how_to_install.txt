@@ -1,0 +1,9 @@
+First Open the Terminsl in the folder where you have pasted all the code and resources.
+
+Then type
+chmod +x run.sh
+and Press Enter.
+
+Now to Run the Neural Network Type.
+./run
+and Press Enter.
