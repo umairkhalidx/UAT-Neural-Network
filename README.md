@@ -24,7 +24,8 @@ https://www.youtube.com/watch?v=NhlhJFKmzpk
 
 https://www.youtube.com/watch?v=qq-7X8zLP7g
 
-After this you would need to install g++ complier in Ubuntu
+After this you would need to install g++ complier in Ubuntu:
+
 https://www.youtube.com/watch?v=QKUhMOd-KOM
 
 ### Running the Neural Network
